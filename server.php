@@ -8,7 +8,7 @@
         'url' => 'https://upload.wikimedia.org/wikipedia/en/a/af/AngelofSalvationGalneryuscover.jpg',
     ],
     [
-        'name' => 'hurry up we\'re dreaming',
+        'name' => 'Hurry up we\'re dreaming',
         'author' => 'M83',
         'year' => '2011',
         'url' => 'https://m.media-amazon.com/images/I/81tEvdYVSPL.__AC_SX300_SY300_QL70_ML2_.jpg',
